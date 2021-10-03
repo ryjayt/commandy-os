@@ -1,0 +1,1 @@
+git@github.com:ryjayt/ryjayt.git

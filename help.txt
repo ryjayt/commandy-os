@@ -1,0 +1,35 @@
+About commandy os
+------------------------------------------------------------------------------------------------------------------------
+This is a simple to use command line os that runs ontop of windows
+any can can develop a app or command.
+
+apps are games and programs that might make a command better to use or add stuff to the os
+
+commands are to do things that apps can use to help do stuff, or doing os things like adding apps.
+to add a app you need to add it the the apps folder then go to the os and use command
+in command use addapp and type the name of the app file with out the .bat eg i added game.bat i would put game so the os knows its game.bat.
+
+For Devs
+------------------------------------------------------------------------------------------------------------------------
+you can use bat script
+you can add sh scripts but its your just to make a bat script that points to it. witch would be the app.
+with commands you may have to tell the user to download commands for your game to work.
+a idear is to give the user both a app folder and command folder they can add. tho commands may be outdated so your job to keep them upto date.
+you will also need to add the command to the command index commands.txt you could make a script to do it auto if you wanted.
+
+fixing, making a custom version apps without credits to the orignal auther is a bit sad. always credit the orignal auther or project.
+
+changing the code and reselling
+------------------------------------------------------------------------------------------------------------------------
+You are free to change the code and to make avalable anywhere you want. tho put where them offical download to your project is.
+You are not alowed to SELL the project, must be put out for free for people to use.
+
+any apps you download
+------------------------------------------------------------------------------------------------------------------------
+if they contain viruses ect we are not a folt. you must download them from the offical website there hosted on.
+we also dont adsvise you to change any apps code unless you know what your doing. or have a backup
+
+credit
+------------------------------------------------------------------------------------------------------------------------
+commandy os was developed by ryjayt
+https://github.com/ryjayt

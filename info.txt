@@ -1,0 +1,5 @@
+commandy os
+beta v1.0
+dev: kempy
+changelog 
+added apps and commands
